@@ -11,8 +11,8 @@ The project demonstrates the complete pipeline of a Deep Learning application in
 
 ## 🚀 Live Demo
 
-👉 Gradio App (if hosted from Colab):  
-https://your-gradio-link-here
+👉 Gradio App  
+[https://your-gradio-link-here](https://b3da074a0a1ce2ab29.gradio.live/)
 
 ---
 
