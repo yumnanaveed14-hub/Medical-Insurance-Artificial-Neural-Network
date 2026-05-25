@@ -12,7 +12,7 @@ The project demonstrates the complete pipeline of a Deep Learning application in
 ## 🚀 Live Demo
 
 👉 Gradio App  
-[https://your-gradio-link-here](https://b3da074a0a1ce2ab29.gradio.live/)
+(https://b3da074a0a1ce2ab29.gradio.live/)
 
 ---
 
@@ -87,15 +87,7 @@ The ANN successfully learned nonlinear relationships between features and insura
 
 A simple and interactive **Gradio interface** was built to allow users to input their details and get real-time insurance cost predictions.
 
----
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-- Model training output
-- Gradio interface UI
-- Prediction results
 
 ---
 
